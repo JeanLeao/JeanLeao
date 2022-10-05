@@ -1,4 +1,4 @@
-### Olá"!
+### Bem vindo ao meu lugar!
 
 - 👋 Olá me chamo Jean
 - 🌱 Universitário - Ciências da Computação
