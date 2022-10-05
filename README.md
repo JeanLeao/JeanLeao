@@ -2,6 +2,7 @@
 
 - 👋 Olá me chamo Jean
 - 🌱 Universitário - Ciências da Computação
+- Estou aprendendo express e banco de dados.
 
 ### Tecnologias e Ferramentas:
   <div style="display: inline_block"><br>
@@ -12,5 +13,6 @@
   <img align="center" alt="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="WordPRESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-  <img align="center" alt="Fire-Base" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />       
+  <img align="center" alt="Fire-Base" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
