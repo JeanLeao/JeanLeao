@@ -2,7 +2,7 @@
 
 - 👋 Olá me chamo Jean
 - 🌱 Universitário - Ciências da Computação
-- Estou aprendendo rotas e banco de dados.
+- Estou aprendendo backend.
 
 ### Tecnologias e Ferramentas:
   <div style="display: inline_block"><br>
