@@ -3,7 +3,7 @@
 - 👋 Olá me chamo Jean
 - 🌱 Universitário - Ciências da Computação
 - Estou aprendendo backend.
-- Estudando PostgreSQL
+
  
 ### Tecnologias e Ferramentas:
   <div style="display: inline_block"><br>
