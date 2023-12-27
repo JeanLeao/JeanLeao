@@ -1,10 +1,10 @@
-### Bem vindo ao meu lugar!
+### Welcome to my place!
 
-- 👋 Olá me chamo Jean
-- 🌱 Universitário - Ciências da Computação
-
- 
-### Tecnologias e Ferramentas:
+- Hello 👋, my name is Jean
+- University - 🌱 Computer Science
+- Learning - Go🐀
+  
+### Technologies and Tools:
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
