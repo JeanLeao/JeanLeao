@@ -1,7 +1,7 @@
 ### Welcome to my place!
 
 - Hello 👋, my name is Jean
-- University - 🌱 Computer Science
+- Computer Science
 - Learning - Go🐀
   
 ### Technologies and Tools:
